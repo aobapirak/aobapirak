@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-<img align="left" src="./img/react-native.png" alt="reactnative" width="26px" /> 
+<img align="left" src="./img/react-native.png" alt="reactnative" /> 
 </a>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
