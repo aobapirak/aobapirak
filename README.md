@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 </a>
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26px" height="26px"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" align="left" alt="c" width="26px" height="26px"/> </a>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" height="26px"/> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="left" alt="python" width="26px" height="26px"/> 
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="26px" height="26px"/> 
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="26px" height="26px"/> 
 </a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="26px" height="26px"/> 
+<img align="left" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="26px" height="26px"/> 
 </a>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26px" height="26px"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26px" height="26px"/> 
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
