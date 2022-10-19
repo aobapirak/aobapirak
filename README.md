@@ -52,15 +52,11 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 </a>
 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="26px" height="26px"/> 
-</a>
-
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 </a>
 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+<a href="./img/react-native.png" target="_blank" rel="noreferrer"> 
 <img align="left" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="26px" height="26px"/> 
 </a>
 
