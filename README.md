@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 </a>
 
-<a href="./img/react-native.png" target="_blank" rel="noreferrer"> 
-<img align="left" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="26px" height="26px"/> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+<img align="left" src="./img/react-native.png" alt="reactnative" width="26px" height="26px"/> 
 </a>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
