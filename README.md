@@ -90,3 +90,9 @@ Here are some ideas to get you started:
 </br>
 
 ---
+
+### Stats:
+
+![Aobapirak's GitHub stats](https://github-readme-stats.vercel.app/api?username=aobapirak&show_icons=true&theme=city_lights)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aobapirak&layout=compact&theme=city_lights)](https://github.com/aobapirak/github-readme-stats)
+
